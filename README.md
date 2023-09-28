@@ -1,13 +1,9 @@
 # General Artificial Intelligence
-
+*Friday, 22. September 2023 at 16:16*
 ## Introduction
 
 ### Constant Change
 Throughout human history, change has been a constant driving force. In our history classes, we've all learned about the grandeur of past nations and empires, some of which ruled over territories larger than today's nations in 2023. These ancient civilizations not only varied in size, geography, and appearance but also in their way of life. Their unique religious beliefs, cultural practices, and worldviews shaped their daily existence. Despite their differences, these nations coexisted, sometimes in harmony, sometimes in conflict. What united them was their continuous evolution and adaptability, driven by the necessity to stay ahead in an ever-changing world.
-
-````diff
-- TODO: Maybe mention Europe as the prime example?
-````
 
 ### Fear and Skepticism
 Technological advancements have historically aimed to provide advantages, whether by simplifying tasks, fulfilling unattainable human desires, or maintaining control in various situations. Paradoxically, despite these promises, people have often greeted new technologies with skepticism.
